@@ -1,0 +1,16 @@
+wechat:
+  appid:
+  secret:
+  token:
+  aesKey:
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url:
+    username:
+    password:
+
+
+server:
+  port: 8080
